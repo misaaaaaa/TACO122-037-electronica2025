@@ -29,7 +29,7 @@ repositorio del curso Electrónica Digital: del Dato al Objeto del Departamento 
 
 | estudiante | enlace |
 |--------------|------|
-| estudiante02 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
+| estudiante02 | [link](https://github.com/koydfripp/No-se-usar-github-ayuda.git) |
 | estudiante03 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
 | estudiante04 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
 | estudiante05 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
