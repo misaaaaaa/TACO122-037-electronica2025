@@ -70,3 +70,26 @@ Visitantes/oyentes/observantes/externos al DAV
 
 <https://git-scm.com/install/windows>
 
+Instrucciones de instalación: <https://github.com/cli/cli#installation>
+
+## Pasos para tener un clon del repositorio en tu computador
+
+Para clonar tu propio repositorio en tu computador (recuerda tener git, gh y tu cuenta de github authenticada en tu computador)
+
+1. Cambiamos de carpeta hacia donde están tus repositorios
+
+`
+cd github
+`
+
+2. Clonamos el mensaje que aparece en nuestro repositorio en la sección Code > GitHub CLI. Ejemplo con el repositorio de emilianojc:
+
+`
+gh repo clone emilianojc/bit-cora-Emiliano-
+`
+
+3. Para saber como estamos con respecto al repo principal, hacemos:
+
+`
+git status
+`
