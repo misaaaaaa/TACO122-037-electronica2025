@@ -98,6 +98,8 @@ esta linea fue añadida desde la web
 
 ## Pasos para tener un clon del repositorio en tu computador
 
+Video tutorial que muestra como lo trabajamos en clase: <https://youtu.be/n7VgcHfdyLA>
+
 Para clonar tu propio repositorio en tu computador (recuerda tener git, gh y tu cuenta de github authenticada en tu computador)
 
 1. Cambiamos de carpeta hacia donde están tus repositorios
