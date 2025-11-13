@@ -23,13 +23,15 @@ envío de actas 28 de noviembre
 
 🟩 [GatoRodriguez](https://github.com/GatoRodriguez/TACO122-037-Bitacora-GatoRodriguez)  
 
-🟩  [Criis70](https://github.com/Criis70/Proyecto-obra-trabajo-del-semestre.-Video-electr-nica-.-/tree/main)   
+🟩 [Criis70](https://github.com/Criis70/Proyecto-obra-trabajo-del-semestre.-Video-electr-nica-.-/tree/main)   
 
 🟩 [gemagarate](https://github.com/gemagarate/taco122-037-bitacora-gemagarate)
 
 🟩 [MasaMasita](https://github.com/MasaMasita/Taller-Electr-nica-Digital)  
 
 🟩 [Martobrave](https://github.com/Martobrave/taco122-037-bitacora-martobrave)  
+
+🟩 [Sagiris2003](https://github.com/sagiris2003/taco122-037-bitacora-sagiris2003)  
 
 ### Día 2 - 4 de diciembre
 
@@ -40,6 +42,10 @@ envío de actas 28 de noviembre
 🟩 [emilianojc](https://github.com/emilianojc/bit-cora-Emiliano-)
 
 🟩 [Felipardo](https://github.com/felipardo759-dot/Felipe-Olivares)
+
+🟩 [volodoro](https://github.com/volodoro/Bitacora-TACO122) 
+
+🟩 [sonoboya](https://github.com/sonoboya/TACO-electronica2025)
 
 | #  | estudiante      | enlace                                                                                   |
 |----|----------------|------------------------------------------------------------------------------------------|
@@ -61,10 +67,10 @@ Visitantes/oyentes/observantes/externos al DAV
 | #  | estudiante      | enlace                                                                                   |
 |----|----------------|------------------------------------------------------------------------------------------|
 | 101 | Tarmy       |🟩 [tarmiii](https://github.com/tarmiii/TACO122-137-BITACORA-TARMIII)                       |
-| 102 | Joaquín    |🟩  [Sagiris2003](https://github.com/sagiris2003/taco122-037-bitacora-sagiris2003)                       |
-| 103 | Ignacio Mariño    |🟩 [volodoro](https://github.com/volodoro/Bitacora-TACO122)                       |
+| 102 | Joaquín    |                     |
+| 103 | Ignacio Mariño    |                      |
 | 104 | Angel Olivares    | 🟩 [Ciyecm](https://github.com/Ciyecm/Bit-cora-Programaci-n-MISAA)     |
-| 105 | sonoboya | 🟩[sonoboya](https://github.com/sonoboya/TACO-electronica2025)
+| 105 | sonoboya |  |
 
 ## Para instalar GIT en windows
 

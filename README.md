@@ -24,8 +24,8 @@ repositorio del curso Electrónica Digital: del Dato al Objeto del Departamento 
 |    13 |   6 nov | proyecto individual                                                |
 |    14 |  13 nov | proyecto individual                                                |
 |    15 |  20 nov | proyecto individual. Ultima clase 4°s y Gato                       |
-|    16 |  27 nov | examenes. El examen debería ser esta semana. Examen Gato           |
-|    17 |   4 dic | examenes. Ultima fecha examen 4°                                   |
+|    16 |  27 nov | [Examen parte 1](./clase13/README.md#planificacion-examenes). 15:00hrs. SALA 6                                   |
+|    17 |   4 dic | [Examen parte 2](./clase13/README.md#planificacion-examenes). 15:00hrs. SALA 8                                   |
 |    ~~18~~ |  ~~11 dic~~ | ~~exámenes~~                                               |
 
 ## Bitácoras de estudiantes
