@@ -4,7 +4,7 @@ Hicimos una sesión rápida para aprender a hacer páginas web y propagarlas por
 
 [Registro](https://youtu.be/EUDsypxp_KY)
 
-En la carpeta [mi-primera-web](./mi-primera-web/README.md) podrán ver todos los archivos que creamos en el videotutorial. El respositorio está disponible en [https://github.com/misaaaaaa/mi-primera-web](https://github.com/misaaaaaa/mi-primera-web)
+En el repo [mi-primera-web](https://github.com/misaaaaaa/mi-primera-web) podrán ver todos los archivos que creamos en el videotutorial. 
 
 Otra web de prueba, generada con chatgpt, que incluye un style en css basado en markdown: [https://github.com/misaaaaaa/web-test](https://github.com/misaaaaaa/web-test)
 
