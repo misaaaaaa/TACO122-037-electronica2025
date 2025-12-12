@@ -22,9 +22,6 @@
 [submodule "bitacoras/Markoook"]
 	path = bitacoras/Markoook
 	url = https://github.com/Markoook/taco122-037-bitacora-mark
-[submodule "bitacoras/GatoRodriguez"]
-	path = bitacoras/GatoRodriguez
-	url = https://github.com/GatoRodriguez/TACO122-037-Bitacora-GatoRodriguez
 [submodule "bitacoras/gemagarate"]
 	path = bitacoras/gemagarate
 	url = https://github.com/gemagarate/taco122-037-bitacora-gemagarate
