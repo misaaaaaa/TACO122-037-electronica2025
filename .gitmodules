@@ -43,3 +43,6 @@
 [submodule "bitacoras/felipardo759-dot"]
 	path = bitacoras/felipardo759-dot
 	url = https://github.com/felipardo759-dot/Felipe-Olivares/
+[submodule "bitacoras/GatoRodriguez"]
+	path = bitacoras/GatoRodriguez
+	url = https://github.com/GatoRodriguez/TACO122-037-Bitacora-GatoRodriguez
